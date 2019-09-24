@@ -1,2 +1,2 @@
-# hello-world
+# lab
 repository to mine
